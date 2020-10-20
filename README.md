@@ -2,5 +2,5 @@
 
 * [x] Build express server
 * [x] Parse url
-* [ ] Grab all anchor tags
-* [ ] Find anchors that don't match the domain
+* [x] Grab all anchor tags
+* [x] Find anchors that don't match the domain
